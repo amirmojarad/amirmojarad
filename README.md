@@ -87,7 +87,7 @@ class Amir{
 <hr/>
 
 <p align="center">
-    <img width="800" src="https://activity-graph.herokuapp.com/graph?username=adityanjr&theme=react-dark">
+    <img width="800" src="https://activity-graph.herokuapp.com/graph?username=amirmojarad&theme=react-dark">
 </p>
 <details>
   <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
