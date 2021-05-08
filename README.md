@@ -50,3 +50,38 @@ class Amir{
   <a href="https://twitter.com/amirmojarad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
+
+<!-- Skills -->
+<hr>
+<p align="center"> Skills & Tools </p>
+
+<p align="center">
+  <a href="https://www.flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=12B5F1">
+  </a>
+    <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow">
+ </a>
+    <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Dart-1D202B?style=for-the-badge&logo=Dart&logoColor=0939E5">
+  </a>
+    <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+  </a>
+  <br>
+  <a href="https://docs.oracle.com/javase/7/docs/api/">
+    <img src="https://img.shields.io/badge/Java-DDE3F9?style=for-the-badge&logo=Java&logoColor=F96D35">
+      </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+</p>
+<hr/>
