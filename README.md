@@ -138,21 +138,9 @@ class Amir{
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
 ![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
 ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-47A248.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
-![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
 </details>
 
