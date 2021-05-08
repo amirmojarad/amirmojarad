@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me
 
-<!--
-**amirmojarad/amirmojarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```dart
+class Amir{
+  final _firstName = "Amir";
+  final _lastName = "Mojarad";
+  final _country = "Iran";
+  final _home = "Mashhad";
+  final _university = "Shahrood University of Technology";
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  final _hobbies = ["Programming", "Arcade Games", "Chess", "Reading", "Movies"];
+  final _projects = ["Flutter", "Java", "Python", "AI"];
+  final _languages = ["C++", "Kotlin", "SQL", "Dart"];
+  final _editors = ["Android Studio", "VS Code", "Intellij Idea", "PyCharm", "Clion", "Visual Studio"];
+}
+```
