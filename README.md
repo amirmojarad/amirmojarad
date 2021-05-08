@@ -21,33 +21,32 @@ class Amir{
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <li>
-<b>Name:</b> Aditya | Singh</li>
+<b>Name:</b> Amir | Mojarad</li>
 <li>
-<b>Nationality:</b> Indian
+<b>Nationality:</b> Iranian
 </li>
 <li>
-<b>Loves:</b> coding and gaming -///-
+<b>Loves:</b> Coding and Reading
 </li>
 <li>
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Chess
+<b>Hobbys:</b> Tech Stuff, AI
 </li>
 <li>
-<b>Working @:</b> Walnut
+<b>Working @:</b> Nowhere
 </li>
 <li>
-<b>Mail:</b> samant04aditya@gmail.com
+<b>Mail:</b> amirmojarad13@gmail.com
 </li>
 <br>
 &nbsp;
 <!-- Contact  -->
   <p align="center">
-  <a href="mailto:samant04aditya@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006738696907"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aditya_njr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adityanjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/aditya_njrr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amirmojarad13@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/amirmjrd/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amirmojarad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/amirmojarad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
