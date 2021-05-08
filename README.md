@@ -94,8 +94,7 @@ class Amir{
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-F0C710.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white) &nbsp;
 ![BLoC](https://img.shields.io/badge/BLOC-%23121011.svg?&style=flat&logo=bloc&logoColor=white) &nbsp;
