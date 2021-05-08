@@ -137,7 +137,7 @@ class Amir{
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanjr&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmojarad&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=amirmojarad&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmojarad&hide=html,Rich+Text+Format&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
