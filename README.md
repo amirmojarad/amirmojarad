@@ -30,7 +30,7 @@ class Amir{
 <b>Hobbys:</b> Tech Stuff, AI
 </li>
 <li>
-<b>Working @:</b> Nowhere
+<b>Working @:</b> JRleads
 </li>
 <li>
 <b>Mail:</b> amirmojarad13@gmail.com
