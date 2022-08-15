@@ -1,6 +1,6 @@
 # whoami
 
-`Back-End Developer` and `Flutter Developer`
+`Back-End Developer`
 
 # Activity Graph
 
