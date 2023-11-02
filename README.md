@@ -1,4 +1,1 @@
-# whoami
-
-`Software Engineer`
 
